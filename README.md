@@ -1,2 +1,2 @@
-# BoiseState_PAC_Workshop
-Boise State's Physics and Astronomy Club scientific computing discussion workshop
+# BoiseState_SciComp_Workshomp
+Boise State Physics scientific computing discussion workshop
